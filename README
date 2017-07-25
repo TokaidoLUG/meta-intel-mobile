@@ -1,0 +1,22 @@
+meta-intel-mobile
+==========
+
+This layer is a bsp layer for intel tablet. It aim to support efi 32 boot.
+
+Yocto Project Compatible
+========================
+
+The BSPs contained in this layer are compatible with the Yocto Project
+as per the requirements listed here:
+
+  https://www.yoctoproject.org/webform/yocto-project-compatible-registration
+
+
+Dependencies
+============
+
+This layer depends on:
+
+  URI: git://git.yoctoproject.org/meta-intel
+  branch: pyro
+
